@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
 </a>
 
-# Shopping-Mall Paid Search Campaign Analysis
+# Shopping-Mall Paid Search Marketing Campaign Analysis
 ## Table of Contents
 - [Dashboard Preview](#dashboard-preview)
 - [Overview](#overview)
