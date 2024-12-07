@@ -44,14 +44,6 @@ The dataset is sourced from Kaggle. [Download](https://www.kaggle.com/datasets/m
 - <b>Sale Amount: </b> The total quantity of sales derived from a specific ad group.
 - <b>P&L: </b> Profit and Loss, based on the formula Revenue — Cost. For this dataset measures the profit of the specific Ad Group.
 
-
-
-### Ad Group Journey
-
-![image](https://github.com/user-attachments/assets/71fd7b45-599e-4e11-8479-8293e0d7dde3)
-
-<b>e.g. Ads Journey: Shop — 1:1 — Desk — [shop coupon] </b>
-
 ### Understanding Keyword Match
 - <b>Exact Match: </b> Show an ad when the query has the same meaning as the keyword
 
