@@ -69,7 +69,7 @@ Total Cost = SUM('campaign_data'[Cost])
 CPC = DIVIDE(SUM('campaign_data'[Cost]), SUM('campaign_data'[Clicks]), 0)
 ```
 
-<b>Cost Per Conversion: </b> 
+<b>Cost Per Conversion: </b> The average cost incurred to achieve a single conversion.
 ```
 Cost Per Conversion = DIVIDE(SUM('campaign_data'[Cost]), SUM('campaign_data'[Conversions]), 0)
 ```
@@ -90,7 +90,7 @@ Total Sale Amount = SUM('campaign_data'[Sale Amount])
 P&L = SUM('campaign_data'[Revenue]) - SUM('campaign_data'[Cost])
 ```
 
-<b>ROI (Return On Investment): </b>
+<b>ROI (Return On Investment): </b> Measures the profitability of a campaign by comparing net profit to the total cost of the investment. 
 ```
 ROI = DIVIDE(SUM('campaign_data'[Revenue]) - SUM('campaign_data'[Cost]), SUM('campaign_data'[Cost]), 0)
 ```
